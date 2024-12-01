@@ -1,0 +1,1381 @@
+text,species,allergies
+My guinea pig cannot eat spinach.,guinea pig,spinach
+My guinea pig is sensitive to spinach.,guinea pig,spinach
+My guinea pig is allergic to spinach.,guinea pig,spinach
+My cat cannot eat beef.,cat,beef
+My cat is sensitive to beef.,cat,beef
+My cat is allergic to beef.,cat,beef
+My cat cannot eat chicken.,cat,chicken
+My cat is sensitive to chicken.,cat,chicken
+My cat is allergic to chicken.,cat,chicken
+My cat cannot eat pork.,cat,pork
+My cat is sensitive to pork.,cat,pork
+My cat is allergic to pork.,cat,pork
+My bird cannot eat rice.,bird,rice
+My bird is sensitive to rice.,bird,rice
+My bird is allergic to rice.,bird,rice
+My bird cannot eat banana.,bird,banana
+My bird is sensitive to banana.,bird,banana
+My bird is allergic to banana.,bird,banana
+My guinea pig cannot eat apple.,guinea pig,apple
+My guinea pig is sensitive to apple.,guinea pig,apple
+My guinea pig is allergic to apple.,guinea pig,apple
+My bird cannot eat apple.,bird,apple
+My bird is sensitive to apple.,bird,apple
+My bird is allergic to apple.,bird,apple
+My bird cannot eat pea.,bird,pea
+My bird is sensitive to pea.,bird,pea
+My bird is allergic to pea.,bird,pea
+My dog cannot eat beef.,dog,beef
+My dog is sensitive to beef.,dog,beef
+My dog is allergic to beef.,dog,beef
+My dog cannot eat potato.,dog,potato
+My dog is sensitive to potato.,dog,potato
+My dog is allergic to potato.,dog,potato
+My guinea pig cannot eat apricots.,guinea pig,apricots
+My guinea pig is sensitive to apricots.,guinea pig,apricots
+My guinea pig is allergic to apricots.,guinea pig,apricots
+My cat cannot eat fish.,cat,fish
+My cat is sensitive to fish.,cat,fish
+My cat is allergic to fish.,cat,fish
+My cat cannot eat rice.,cat,rice
+My cat is sensitive to rice.,cat,rice
+My cat is allergic to rice.,cat,rice
+My bird cannot eat carrot.,bird,carrot
+My bird is sensitive to carrot.,bird,carrot
+My bird is allergic to carrot.,bird,carrot
+My dog cannot eat corn.,dog,corn
+My dog is sensitive to corn.,dog,corn
+My dog is allergic to corn.,dog,corn
+My bird cannot eat wheat.,bird,wheat
+My bird is sensitive to wheat.,bird,wheat
+My bird is allergic to wheat.,bird,wheat
+My dog cannot eat rice.,dog,rice
+My dog is sensitive to rice.,dog,rice
+My dog is allergic to rice.,dog,rice
+My dog cannot eat pea.,dog,pea
+My dog is sensitive to pea.,dog,pea
+My dog is allergic to pea.,dog,pea
+My bird cannot eat soy.,bird,soy
+My bird is sensitive to soy.,bird,soy
+My bird is allergic to soy.,bird,soy
+My guinea pig cannot eat blueberry.,guinea pig,blueberry
+My guinea pig is sensitive to blueberry.,guinea pig,blueberry
+My guinea pig is allergic to blueberry.,guinea pig,blueberry
+My guinea pig cannot eat pumpkin.,guinea pig,pumpkin
+My guinea pig is sensitive to pumpkin.,guinea pig,pumpkin
+My guinea pig is allergic to pumpkin.,guinea pig,pumpkin
+My dog cannot eat chicken.,dog,chicken
+My dog is sensitive to chicken.,dog,chicken
+My dog is allergic to chicken.,dog,chicken
+My bird cannot eat cranberry.,bird,cranberry
+My bird is sensitive to cranberry.,bird,cranberry
+My bird is allergic to cranberry.,bird,cranberry
+My bird cannot eat fish.,bird,fish
+My bird is sensitive to fish.,bird,fish
+My bird is allergic to fish.,bird,fish
+My dog cannot eat lamb.,dog,lamb
+My dog is sensitive to lamb.,dog,lamb
+My dog is allergic to lamb.,dog,lamb
+My guinea pig cannot eat soy.,guinea pig,soy
+My guinea pig is sensitive to soy.,guinea pig,soy
+My guinea pig is allergic to soy.,guinea pig,soy
+My dog cannot eat soy.,dog,soy
+My dog is sensitive to soy.,dog,soy
+My dog is allergic to soy.,dog,soy
+My guinea pig cannot eat barley.,guinea pig,barley
+My guinea pig is sensitive to barley.,guinea pig,barley
+My guinea pig is allergic to barley.,guinea pig,barley
+My dog cannot eat pork.,dog,pork
+My dog is sensitive to pork.,dog,pork
+My dog is allergic to pork.,dog,pork
+My guinea pig cannot eat pea.,guinea pig,pea
+My guinea pig is sensitive to pea.,guinea pig,pea
+My guinea pig is allergic to pea.,guinea pig,pea
+My cat cannot eat wheat.,cat,wheat
+My cat is sensitive to wheat.,cat,wheat
+My cat is allergic to wheat.,cat,wheat
+My guinea pig cannot eat wheat.,guinea pig,wheat
+My guinea pig is sensitive to wheat.,guinea pig,wheat
+My guinea pig is allergic to wheat.,guinea pig,wheat
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My guinea pig cannot eat oat.,guinea pig,oat
+My guinea pig is sensitive to oat.,guinea pig,oat
+My guinea pig is allergic to oat.,guinea pig,oat
+My guinea pig cannot eat potato.,guinea pig,potato
+My guinea pig is sensitive to potato.,guinea pig,potato
+My guinea pig is allergic to potato.,guinea pig,potato
+My cat cannot eat pea.,cat,pea
+My cat is sensitive to pea.,cat,pea
+My cat is allergic to pea.,cat,pea
+My dog cannot eat pumpkin.,dog,pumpkin
+My dog is sensitive to pumpkin.,dog,pumpkin
+My dog is allergic to pumpkin.,dog,pumpkin
+My dog cannot eat wheat.,dog,wheat
+My dog is sensitive to wheat.,dog,wheat
+My dog is allergic to wheat.,dog,wheat
+My dog cannot eat egg.,dog,egg
+My dog is sensitive to egg.,dog,egg
+My dog is allergic to egg.,dog,egg
+My dog cannot eat cranberry.,dog,cranberry
+My dog is sensitive to cranberry.,dog,cranberry
+My dog is allergic to cranberry.,dog,cranberry
+My bird cannot eat fruit.,bird,fruit
+My bird is sensitive to fruit.,bird,fruit
+My bird is allergic to fruit.,bird,fruit
+My cat cannot eat cranberry.,cat,cranberry
+My cat is sensitive to cranberry.,cat,cranberry
+My cat is allergic to cranberry.,cat,cranberry
+My guinea pig cannot eat milk.,guinea pig,milk
+My guinea pig is sensitive to milk.,guinea pig,milk
+My guinea pig is allergic to milk.,guinea pig,milk
+My bird cannot eat spinach.,bird,spinach
+My bird is sensitive to spinach.,bird,spinach
+My bird is allergic to spinach.,bird,spinach
+My guinea pig cannot eat rice.,guinea pig,rice
+My guinea pig is sensitive to rice.,guinea pig,rice
+My guinea pig is allergic to rice.,guinea pig,rice
+My cat cannot eat egg.,cat,egg
+My cat is sensitive to egg.,cat,egg
+My cat is allergic to egg.,cat,egg
+My cat cannot eat cheese.,cat,cheese
+My cat is sensitive to cheese.,cat,cheese
+My cat is allergic to cheese.,cat,cheese
+My bird cannot eat pumpkin.,bird,pumpkin
+My bird is sensitive to pumpkin.,bird,pumpkin
+My bird is allergic to pumpkin.,bird,pumpkin
+My bird cannot eat lettuce.,bird,lettuce
+My bird is sensitive to lettuce.,bird,lettuce
+My bird is allergic to lettuce.,bird,lettuce
+My cat cannot eat milk.,cat,milk
+My cat is sensitive to milk.,cat,milk
+My cat is allergic to milk.,cat,milk
+My dog cannot eat turkey.,dog,turkey
+My dog is sensitive to turkey.,dog,turkey
+My dog is allergic to turkey.,dog,turkey
+My guinea pig cannot eat strawberry.,guinea pig,strawberry
+My guinea pig is sensitive to strawberry.,guinea pig,strawberry
+My guinea pig is allergic to strawberry.,guinea pig,strawberry
+My cat cannot eat oat.,cat,oat
+My cat is sensitive to oat.,cat,oat
+My cat is allergic to oat.,cat,oat
+My bird cannot eat corn.,bird,corn
+My bird is sensitive to corn.,bird,corn
+My bird is allergic to corn.,bird,corn
+My guinea pig cannot eat orange.,guinea pig,orange
+My guinea pig is sensitive to orange.,guinea pig,orange
+My guinea pig is allergic to orange.,guinea pig,orange
+My cat cannot eat turkey.,cat,turkey
+My cat is sensitive to turkey.,cat,turkey
+My cat is allergic to turkey.,cat,turkey
+My dog cannot eat carrot.,dog,carrot
+My dog is sensitive to carrot.,dog,carrot
+My dog is allergic to carrot.,dog,carrot
+My guinea pig cannot eat banana.,guinea pig,banana
+My guinea pig is sensitive to banana.,guinea pig,banana
+My guinea pig is allergic to banana.,guinea pig,banana
+My bird cannot eat oat.,bird,oat
+My bird is sensitive to oat.,bird,oat
+My bird is allergic to oat.,bird,oat
+My dog cannot eat banana.,dog,banana
+My dog is sensitive to banana.,dog,banana
+My dog is allergic to banana.,dog,banana
+My bird cannot eat orange.,bird,orange
+My bird is sensitive to orange.,bird,orange
+My bird is allergic to orange.,bird,orange
+My dog cannot eat rabbit.,dog,rabbit
+My dog is sensitive to rabbit.,dog,rabbit
+My dog is allergic to rabbit.,dog,rabbit
+My dog cannot eat duck.,dog,duck
+My dog is sensitive to duck.,dog,duck
+My dog is allergic to duck.,dog,duck
+My bird cannot eat berry.,bird,berry
+My bird is sensitive to berry.,bird,berry
+My bird is allergic to berry.,bird,berry
+My cat cannot eat tomato.,cat,tomato
+My cat is sensitive to tomato.,cat,tomato
+My cat is allergic to tomato.,cat,tomato
+My bird cannot eat egg.,bird,egg
+My bird is sensitive to egg.,bird,egg
+My bird is allergic to egg.,bird,egg
+My cat cannot eat corn.,cat,corn
+My cat is sensitive to corn.,cat,corn
+My cat is allergic to corn.,cat,corn
+My bird cannot eat barley.,bird,barley
+My bird is sensitive to barley.,bird,barley
+My bird is allergic to barley.,bird,barley
+My dog cannot eat tomato.,dog,tomato
+My dog is sensitive to tomato.,dog,tomato
+My dog is allergic to tomato.,dog,tomato
+My guinea pig cannot eat corn.,guinea pig,corn
+My guinea pig is sensitive to corn.,guinea pig,corn
+My guinea pig is allergic to corn.,guinea pig,corn
+My dog cannot eat fish.,dog,fish
+My dog is sensitive to fish.,dog,fish
+My dog is allergic to fish.,dog,fish
+My dog cannot eat spinach.,dog,spinach
+My dog is sensitive to spinach.,dog,spinach
+My dog is allergic to spinach.,dog,spinach
+My cat cannot eat duck.,cat,duck
+My cat is sensitive to duck.,cat,duck
+My cat is allergic to duck.,cat,duck
+My guinea pig cannot eat carrot.,guinea pig,carrot
+My guinea pig is sensitive to carrot.,guinea pig,carrot
+My guinea pig is allergic to carrot.,guinea pig,carrot
+My dog cannot eat milk.,dog,milk
+My dog is sensitive to milk.,dog,milk
+My dog is allergic to milk.,dog,milk
+My cat cannot eat potato.,cat,potato
+My cat is sensitive to potato.,cat,potato
+My cat is allergic to potato.,cat,potato
+My cat cannot eat spinach.,cat,spinach
+My cat is sensitive to spinach.,cat,spinach
+My cat is allergic to spinach.,cat,spinach
+My cat cannot eat soy.,cat,soy
+My cat is sensitive to soy.,cat,soy
+My cat is allergic to soy.,cat,soy
+My dog cannot eat oat.,dog,oat
+My dog is sensitive to oat.,dog,oat
+My dog is allergic to oat.,dog,oat
+My cat cannot eat carrot.,cat,carrot
+My cat is sensitive to carrot.,cat,carrot
+My cat is allergic to carrot.,cat,carrot
+My bird cannot eat almond.,bird,almond
+My bird is sensitive to almond.,bird,almond
+My bird is allergic to almond.,bird,almond
+My dog cannot eat barley.,dog,barley
+My dog is sensitive to barley.,dog,barley
+My dog is allergic to barley.,dog,barley
+My bird cannot eat milk.,bird,milk
+My bird is sensitive to milk.,bird,milk
+My bird is allergic to milk.,bird,milk
+My guinea pig cannot eat fish.,guinea pig,fish
+My guinea pig is sensitive to fish.,guinea pig,fish
+My guinea pig is allergic to fish.,guinea pig,fish
+My bird cannot eat potato.,bird,potato
+My bird is sensitive to potato.,bird,potato
+My bird is allergic to potato.,bird,potato
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My cat cannot eat pumpkin.,cat,pumpkin
+My cat is sensitive to pumpkin.,cat,pumpkin
+My cat is allergic to pumpkin.,cat,pumpkin
+My guinea pig cannot eat egg.,guinea pig,egg
+My guinea pig is sensitive to egg.,guinea pig,egg
+My guinea pig is allergic to egg.,guinea pig,egg
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My bird cannot eat beef.,bird,beef
+My bird is sensitive to beef.,bird,beef
+My bird is allergic to beef.,bird,beef
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My guinea pig cannot eat spinach.,guinea pig,spinach
+My guinea pig is sensitive to spinach.,guinea pig,spinach
+My guinea pig is allergic to spinach.,guinea pig,spinach
+My cat cannot eat beef.,cat,beef
+My cat is sensitive to beef.,cat,beef
+My cat is allergic to beef.,cat,beef
+My cat cannot eat chicken.,cat,chicken
+My cat is sensitive to chicken.,cat,chicken
+My cat is allergic to chicken.,cat,chicken
+My cat cannot eat pork.,cat,pork
+My cat is sensitive to pork.,cat,pork
+My cat is allergic to pork.,cat,pork
+My bird cannot eat rice.,bird,rice
+My bird is sensitive to rice.,bird,rice
+My bird is allergic to rice.,bird,rice
+My bird cannot eat banana.,bird,banana
+My bird is sensitive to banana.,bird,banana
+My bird is allergic to banana.,bird,banana
+My guinea pig cannot eat apple.,guinea pig,apple
+My guinea pig is sensitive to apple.,guinea pig,apple
+My guinea pig is allergic to apple.,guinea pig,apple
+My bird cannot eat apple.,bird,apple
+My bird is sensitive to apple.,bird,apple
+My bird is allergic to apple.,bird,apple
+My bird cannot eat pea.,bird,pea
+My bird is sensitive to pea.,bird,pea
+My bird is allergic to pea.,bird,pea
+My dog cannot eat beef.,dog,beef
+My dog is sensitive to beef.,dog,beef
+My dog is allergic to beef.,dog,beef
+My dog cannot eat potato.,dog,potato
+My dog is sensitive to potato.,dog,potato
+My dog is allergic to potato.,dog,potato
+My guinea pig cannot eat apricots.,guinea pig,apricots
+My guinea pig is sensitive to apricots.,guinea pig,apricots
+My guinea pig is allergic to apricots.,guinea pig,apricots
+My cat cannot eat fish.,cat,fish
+My cat is sensitive to fish.,cat,fish
+My cat is allergic to fish.,cat,fish
+My cat cannot eat rice.,cat,rice
+My cat is sensitive to rice.,cat,rice
+My cat is allergic to rice.,cat,rice
+My bird cannot eat carrot.,bird,carrot
+My bird is sensitive to carrot.,bird,carrot
+My bird is allergic to carrot.,bird,carrot
+My dog cannot eat corn.,dog,corn
+My dog is sensitive to corn.,dog,corn
+My dog is allergic to corn.,dog,corn
+My bird cannot eat wheat.,bird,wheat
+My bird is sensitive to wheat.,bird,wheat
+My bird is allergic to wheat.,bird,wheat
+My dog cannot eat rice.,dog,rice
+My dog is sensitive to rice.,dog,rice
+My dog is allergic to rice.,dog,rice
+My dog cannot eat pea.,dog,pea
+My dog is sensitive to pea.,dog,pea
+My dog is allergic to pea.,dog,pea
+My bird cannot eat soy.,bird,soy
+My bird is sensitive to soy.,bird,soy
+My bird is allergic to soy.,bird,soy
+My guinea pig cannot eat blueberry.,guinea pig,blueberry
+My guinea pig is sensitive to blueberry.,guinea pig,blueberry
+My guinea pig is allergic to blueberry.,guinea pig,blueberry
+My guinea pig cannot eat pumpkin.,guinea pig,pumpkin
+My guinea pig is sensitive to pumpkin.,guinea pig,pumpkin
+My guinea pig is allergic to pumpkin.,guinea pig,pumpkin
+My dog cannot eat chicken.,dog,chicken
+My dog is sensitive to chicken.,dog,chicken
+My dog is allergic to chicken.,dog,chicken
+My bird cannot eat cranberry.,bird,cranberry
+My bird is sensitive to cranberry.,bird,cranberry
+My bird is allergic to cranberry.,bird,cranberry
+My bird cannot eat fish.,bird,fish
+My bird is sensitive to fish.,bird,fish
+My bird is allergic to fish.,bird,fish
+My dog cannot eat lamb.,dog,lamb
+My dog is sensitive to lamb.,dog,lamb
+My dog is allergic to lamb.,dog,lamb
+My guinea pig cannot eat soy.,guinea pig,soy
+My guinea pig is sensitive to soy.,guinea pig,soy
+My guinea pig is allergic to soy.,guinea pig,soy
+My dog cannot eat soy.,dog,soy
+My dog is sensitive to soy.,dog,soy
+My dog is allergic to soy.,dog,soy
+My guinea pig cannot eat barley.,guinea pig,barley
+My guinea pig is sensitive to barley.,guinea pig,barley
+My guinea pig is allergic to barley.,guinea pig,barley
+My dog cannot eat pork.,dog,pork
+My dog is sensitive to pork.,dog,pork
+My dog is allergic to pork.,dog,pork
+My guinea pig cannot eat pea.,guinea pig,pea
+My guinea pig is sensitive to pea.,guinea pig,pea
+My guinea pig is allergic to pea.,guinea pig,pea
+My cat cannot eat wheat.,cat,wheat
+My cat is sensitive to wheat.,cat,wheat
+My cat is allergic to wheat.,cat,wheat
+My guinea pig cannot eat wheat.,guinea pig,wheat
+My guinea pig is sensitive to wheat.,guinea pig,wheat
+My guinea pig is allergic to wheat.,guinea pig,wheat
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My guinea pig cannot eat oat.,guinea pig,oat
+My guinea pig is sensitive to oat.,guinea pig,oat
+My guinea pig is allergic to oat.,guinea pig,oat
+My guinea pig cannot eat potato.,guinea pig,potato
+My guinea pig is sensitive to potato.,guinea pig,potato
+My guinea pig is allergic to potato.,guinea pig,potato
+My cat cannot eat pea.,cat,pea
+My cat is sensitive to pea.,cat,pea
+My cat is allergic to pea.,cat,pea
+My dog cannot eat pumpkin.,dog,pumpkin
+My dog is sensitive to pumpkin.,dog,pumpkin
+My dog is allergic to pumpkin.,dog,pumpkin
+My dog cannot eat wheat.,dog,wheat
+My dog is sensitive to wheat.,dog,wheat
+My dog is allergic to wheat.,dog,wheat
+My dog cannot eat egg.,dog,egg
+My dog is sensitive to egg.,dog,egg
+My dog is allergic to egg.,dog,egg
+My dog cannot eat cranberry.,dog,cranberry
+My dog is sensitive to cranberry.,dog,cranberry
+My dog is allergic to cranberry.,dog,cranberry
+My bird cannot eat fruit.,bird,fruit
+My bird is sensitive to fruit.,bird,fruit
+My bird is allergic to fruit.,bird,fruit
+My cat cannot eat cranberry.,cat,cranberry
+My cat is sensitive to cranberry.,cat,cranberry
+My cat is allergic to cranberry.,cat,cranberry
+My guinea pig cannot eat milk.,guinea pig,milk
+My guinea pig is sensitive to milk.,guinea pig,milk
+My guinea pig is allergic to milk.,guinea pig,milk
+My bird cannot eat spinach.,bird,spinach
+My bird is sensitive to spinach.,bird,spinach
+My bird is allergic to spinach.,bird,spinach
+My guinea pig cannot eat rice.,guinea pig,rice
+My guinea pig is sensitive to rice.,guinea pig,rice
+My guinea pig is allergic to rice.,guinea pig,rice
+My cat cannot eat egg.,cat,egg
+My cat is sensitive to egg.,cat,egg
+My cat is allergic to egg.,cat,egg
+My cat cannot eat cheese.,cat,cheese
+My cat is sensitive to cheese.,cat,cheese
+My cat is allergic to cheese.,cat,cheese
+My bird cannot eat pumpkin.,bird,pumpkin
+My bird is sensitive to pumpkin.,bird,pumpkin
+My bird is allergic to pumpkin.,bird,pumpkin
+My bird cannot eat lettuce.,bird,lettuce
+My bird is sensitive to lettuce.,bird,lettuce
+My bird is allergic to lettuce.,bird,lettuce
+My cat cannot eat milk.,cat,milk
+My cat is sensitive to milk.,cat,milk
+My cat is allergic to milk.,cat,milk
+My dog cannot eat turkey.,dog,turkey
+My dog is sensitive to turkey.,dog,turkey
+My dog is allergic to turkey.,dog,turkey
+My guinea pig cannot eat strawberry.,guinea pig,strawberry
+My guinea pig is sensitive to strawberry.,guinea pig,strawberry
+My guinea pig is allergic to strawberry.,guinea pig,strawberry
+My cat cannot eat oat.,cat,oat
+My cat is sensitive to oat.,cat,oat
+My cat is allergic to oat.,cat,oat
+My bird cannot eat corn.,bird,corn
+My bird is sensitive to corn.,bird,corn
+My bird is allergic to corn.,bird,corn
+My guinea pig cannot eat orange.,guinea pig,orange
+My guinea pig is sensitive to orange.,guinea pig,orange
+My guinea pig is allergic to orange.,guinea pig,orange
+My cat cannot eat turkey.,cat,turkey
+My cat is sensitive to turkey.,cat,turkey
+My cat is allergic to turkey.,cat,turkey
+My dog cannot eat carrot.,dog,carrot
+My dog is sensitive to carrot.,dog,carrot
+My dog is allergic to carrot.,dog,carrot
+My guinea pig cannot eat banana.,guinea pig,banana
+My guinea pig is sensitive to banana.,guinea pig,banana
+My guinea pig is allergic to banana.,guinea pig,banana
+My bird cannot eat oat.,bird,oat
+My bird is sensitive to oat.,bird,oat
+My bird is allergic to oat.,bird,oat
+My dog cannot eat banana.,dog,banana
+My dog is sensitive to banana.,dog,banana
+My dog is allergic to banana.,dog,banana
+My bird cannot eat orange.,bird,orange
+My bird is sensitive to orange.,bird,orange
+My bird is allergic to orange.,bird,orange
+My dog cannot eat rabbit.,dog,rabbit
+My dog is sensitive to rabbit.,dog,rabbit
+My dog is allergic to rabbit.,dog,rabbit
+My dog cannot eat duck.,dog,duck
+My dog is sensitive to duck.,dog,duck
+My dog is allergic to duck.,dog,duck
+My bird cannot eat berry.,bird,berry
+My bird is sensitive to berry.,bird,berry
+My bird is allergic to berry.,bird,berry
+My cat cannot eat tomato.,cat,tomato
+My cat is sensitive to tomato.,cat,tomato
+My cat is allergic to tomato.,cat,tomato
+My bird cannot eat egg.,bird,egg
+My bird is sensitive to egg.,bird,egg
+My bird is allergic to egg.,bird,egg
+My cat cannot eat corn.,cat,corn
+My cat is sensitive to corn.,cat,corn
+My cat is allergic to corn.,cat,corn
+My bird cannot eat barley.,bird,barley
+My bird is sensitive to barley.,bird,barley
+My bird is allergic to barley.,bird,barley
+My dog cannot eat tomato.,dog,tomato
+My dog is sensitive to tomato.,dog,tomato
+My dog is allergic to tomato.,dog,tomato
+My guinea pig cannot eat corn.,guinea pig,corn
+My guinea pig is sensitive to corn.,guinea pig,corn
+My guinea pig is allergic to corn.,guinea pig,corn
+My dog cannot eat fish.,dog,fish
+My dog is sensitive to fish.,dog,fish
+My dog is allergic to fish.,dog,fish
+My dog cannot eat spinach.,dog,spinach
+My dog is sensitive to spinach.,dog,spinach
+My dog is allergic to spinach.,dog,spinach
+My cat cannot eat duck.,cat,duck
+My cat is sensitive to duck.,cat,duck
+My cat is allergic to duck.,cat,duck
+My guinea pig cannot eat carrot.,guinea pig,carrot
+My guinea pig is sensitive to carrot.,guinea pig,carrot
+My guinea pig is allergic to carrot.,guinea pig,carrot
+My dog cannot eat milk.,dog,milk
+My dog is sensitive to milk.,dog,milk
+My dog is allergic to milk.,dog,milk
+My cat cannot eat potato.,cat,potato
+My cat is sensitive to potato.,cat,potato
+My cat is allergic to potato.,cat,potato
+My cat cannot eat spinach.,cat,spinach
+My cat is sensitive to spinach.,cat,spinach
+My cat is allergic to spinach.,cat,spinach
+My cat cannot eat soy.,cat,soy
+My cat is sensitive to soy.,cat,soy
+My cat is allergic to soy.,cat,soy
+My dog cannot eat oat.,dog,oat
+My dog is sensitive to oat.,dog,oat
+My dog is allergic to oat.,dog,oat
+My cat cannot eat carrot.,cat,carrot
+My cat is sensitive to carrot.,cat,carrot
+My cat is allergic to carrot.,cat,carrot
+My bird cannot eat almond.,bird,almond
+My bird is sensitive to almond.,bird,almond
+My bird is allergic to almond.,bird,almond
+My dog cannot eat barley.,dog,barley
+My dog is sensitive to barley.,dog,barley
+My dog is allergic to barley.,dog,barley
+My bird cannot eat milk.,bird,milk
+My bird is sensitive to milk.,bird,milk
+My bird is allergic to milk.,bird,milk
+My guinea pig cannot eat fish.,guinea pig,fish
+My guinea pig is sensitive to fish.,guinea pig,fish
+My guinea pig is allergic to fish.,guinea pig,fish
+My bird cannot eat potato.,bird,potato
+My bird is sensitive to potato.,bird,potato
+My bird is allergic to potato.,bird,potato
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My cat cannot eat pumpkin.,cat,pumpkin
+My cat is sensitive to pumpkin.,cat,pumpkin
+My cat is allergic to pumpkin.,cat,pumpkin
+My guinea pig cannot eat egg.,guinea pig,egg
+My guinea pig is sensitive to egg.,guinea pig,egg
+My guinea pig is allergic to egg.,guinea pig,egg
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My bird cannot eat beef.,bird,beef
+My bird is sensitive to beef.,bird,beef
+My bird is allergic to beef.,bird,beef
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My guinea pig cannot eat spinach.,guinea pig,spinach
+My guinea pig is sensitive to spinach.,guinea pig,spinach
+My guinea pig is allergic to spinach.,guinea pig,spinach
+My cat cannot eat beef.,cat,beef
+My cat is sensitive to beef.,cat,beef
+My cat is allergic to beef.,cat,beef
+My cat cannot eat chicken.,cat,chicken
+My cat is sensitive to chicken.,cat,chicken
+My cat is allergic to chicken.,cat,chicken
+My cat cannot eat pork.,cat,pork
+My cat is sensitive to pork.,cat,pork
+My cat is allergic to pork.,cat,pork
+My bird cannot eat rice.,bird,rice
+My bird is sensitive to rice.,bird,rice
+My bird is allergic to rice.,bird,rice
+My bird cannot eat banana.,bird,banana
+My bird is sensitive to banana.,bird,banana
+My bird is allergic to banana.,bird,banana
+My guinea pig cannot eat apple.,guinea pig,apple
+My guinea pig is sensitive to apple.,guinea pig,apple
+My guinea pig is allergic to apple.,guinea pig,apple
+My bird cannot eat apple.,bird,apple
+My bird is sensitive to apple.,bird,apple
+My bird is allergic to apple.,bird,apple
+My bird cannot eat pea.,bird,pea
+My bird is sensitive to pea.,bird,pea
+My bird is allergic to pea.,bird,pea
+My dog cannot eat beef.,dog,beef
+My dog is sensitive to beef.,dog,beef
+My dog is allergic to beef.,dog,beef
+My dog cannot eat potato.,dog,potato
+My dog is sensitive to potato.,dog,potato
+My dog is allergic to potato.,dog,potato
+My guinea pig cannot eat apricots.,guinea pig,apricots
+My guinea pig is sensitive to apricots.,guinea pig,apricots
+My guinea pig is allergic to apricots.,guinea pig,apricots
+My cat cannot eat fish.,cat,fish
+My cat is sensitive to fish.,cat,fish
+My cat is allergic to fish.,cat,fish
+My cat cannot eat rice.,cat,rice
+My cat is sensitive to rice.,cat,rice
+My cat is allergic to rice.,cat,rice
+My bird cannot eat carrot.,bird,carrot
+My bird is sensitive to carrot.,bird,carrot
+My bird is allergic to carrot.,bird,carrot
+My dog cannot eat corn.,dog,corn
+My dog is sensitive to corn.,dog,corn
+My dog is allergic to corn.,dog,corn
+My bird cannot eat wheat.,bird,wheat
+My bird is sensitive to wheat.,bird,wheat
+My bird is allergic to wheat.,bird,wheat
+My dog cannot eat rice.,dog,rice
+My dog is sensitive to rice.,dog,rice
+My dog is allergic to rice.,dog,rice
+My dog cannot eat pea.,dog,pea
+My dog is sensitive to pea.,dog,pea
+My dog is allergic to pea.,dog,pea
+My bird cannot eat soy.,bird,soy
+My bird is sensitive to soy.,bird,soy
+My bird is allergic to soy.,bird,soy
+My guinea pig cannot eat blueberry.,guinea pig,blueberry
+My guinea pig is sensitive to blueberry.,guinea pig,blueberry
+My guinea pig is allergic to blueberry.,guinea pig,blueberry
+My guinea pig cannot eat pumpkin.,guinea pig,pumpkin
+My guinea pig is sensitive to pumpkin.,guinea pig,pumpkin
+My guinea pig is allergic to pumpkin.,guinea pig,pumpkin
+My dog cannot eat chicken.,dog,chicken
+My dog is sensitive to chicken.,dog,chicken
+My dog is allergic to chicken.,dog,chicken
+My bird cannot eat cranberry.,bird,cranberry
+My bird is sensitive to cranberry.,bird,cranberry
+My bird is allergic to cranberry.,bird,cranberry
+My bird cannot eat fish.,bird,fish
+My bird is sensitive to fish.,bird,fish
+My bird is allergic to fish.,bird,fish
+My dog cannot eat lamb.,dog,lamb
+My dog is sensitive to lamb.,dog,lamb
+My dog is allergic to lamb.,dog,lamb
+My guinea pig cannot eat soy.,guinea pig,soy
+My guinea pig is sensitive to soy.,guinea pig,soy
+My guinea pig is allergic to soy.,guinea pig,soy
+My dog cannot eat soy.,dog,soy
+My dog is sensitive to soy.,dog,soy
+My dog is allergic to soy.,dog,soy
+My guinea pig cannot eat barley.,guinea pig,barley
+My guinea pig is sensitive to barley.,guinea pig,barley
+My guinea pig is allergic to barley.,guinea pig,barley
+My dog cannot eat pork.,dog,pork
+My dog is sensitive to pork.,dog,pork
+My dog is allergic to pork.,dog,pork
+My guinea pig cannot eat pea.,guinea pig,pea
+My guinea pig is sensitive to pea.,guinea pig,pea
+My guinea pig is allergic to pea.,guinea pig,pea
+My cat cannot eat wheat.,cat,wheat
+My cat is sensitive to wheat.,cat,wheat
+My cat is allergic to wheat.,cat,wheat
+My guinea pig cannot eat wheat.,guinea pig,wheat
+My guinea pig is sensitive to wheat.,guinea pig,wheat
+My guinea pig is allergic to wheat.,guinea pig,wheat
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My guinea pig cannot eat oat.,guinea pig,oat
+My guinea pig is sensitive to oat.,guinea pig,oat
+My guinea pig is allergic to oat.,guinea pig,oat
+My guinea pig cannot eat potato.,guinea pig,potato
+My guinea pig is sensitive to potato.,guinea pig,potato
+My guinea pig is allergic to potato.,guinea pig,potato
+My cat cannot eat pea.,cat,pea
+My cat is sensitive to pea.,cat,pea
+My cat is allergic to pea.,cat,pea
+My dog cannot eat pumpkin.,dog,pumpkin
+My dog is sensitive to pumpkin.,dog,pumpkin
+My dog is allergic to pumpkin.,dog,pumpkin
+My dog cannot eat wheat.,dog,wheat
+My dog is sensitive to wheat.,dog,wheat
+My dog is allergic to wheat.,dog,wheat
+My dog cannot eat egg.,dog,egg
+My dog is sensitive to egg.,dog,egg
+My dog is allergic to egg.,dog,egg
+My dog cannot eat cranberry.,dog,cranberry
+My dog is sensitive to cranberry.,dog,cranberry
+My dog is allergic to cranberry.,dog,cranberry
+My bird cannot eat fruit.,bird,fruit
+My bird is sensitive to fruit.,bird,fruit
+My bird is allergic to fruit.,bird,fruit
+My cat cannot eat cranberry.,cat,cranberry
+My cat is sensitive to cranberry.,cat,cranberry
+My cat is allergic to cranberry.,cat,cranberry
+My guinea pig cannot eat milk.,guinea pig,milk
+My guinea pig is sensitive to milk.,guinea pig,milk
+My guinea pig is allergic to milk.,guinea pig,milk
+My bird cannot eat spinach.,bird,spinach
+My bird is sensitive to spinach.,bird,spinach
+My bird is allergic to spinach.,bird,spinach
+My guinea pig cannot eat rice.,guinea pig,rice
+My guinea pig is sensitive to rice.,guinea pig,rice
+My guinea pig is allergic to rice.,guinea pig,rice
+My cat cannot eat egg.,cat,egg
+My cat is sensitive to egg.,cat,egg
+My cat is allergic to egg.,cat,egg
+My cat cannot eat cheese.,cat,cheese
+My cat is sensitive to cheese.,cat,cheese
+My cat is allergic to cheese.,cat,cheese
+My bird cannot eat pumpkin.,bird,pumpkin
+My bird is sensitive to pumpkin.,bird,pumpkin
+My bird is allergic to pumpkin.,bird,pumpkin
+My bird cannot eat lettuce.,bird,lettuce
+My bird is sensitive to lettuce.,bird,lettuce
+My bird is allergic to lettuce.,bird,lettuce
+My cat cannot eat milk.,cat,milk
+My cat is sensitive to milk.,cat,milk
+My cat is allergic to milk.,cat,milk
+My dog cannot eat turkey.,dog,turkey
+My dog is sensitive to turkey.,dog,turkey
+My dog is allergic to turkey.,dog,turkey
+My guinea pig cannot eat strawberry.,guinea pig,strawberry
+My guinea pig is sensitive to strawberry.,guinea pig,strawberry
+My guinea pig is allergic to strawberry.,guinea pig,strawberry
+My cat cannot eat oat.,cat,oat
+My cat is sensitive to oat.,cat,oat
+My cat is allergic to oat.,cat,oat
+My bird cannot eat corn.,bird,corn
+My bird is sensitive to corn.,bird,corn
+My bird is allergic to corn.,bird,corn
+My guinea pig cannot eat orange.,guinea pig,orange
+My guinea pig is sensitive to orange.,guinea pig,orange
+My guinea pig is allergic to orange.,guinea pig,orange
+My cat cannot eat turkey.,cat,turkey
+My cat is sensitive to turkey.,cat,turkey
+My cat is allergic to turkey.,cat,turkey
+My dog cannot eat carrot.,dog,carrot
+My dog is sensitive to carrot.,dog,carrot
+My dog is allergic to carrot.,dog,carrot
+My guinea pig cannot eat banana.,guinea pig,banana
+My guinea pig is sensitive to banana.,guinea pig,banana
+My guinea pig is allergic to banana.,guinea pig,banana
+My bird cannot eat oat.,bird,oat
+My bird is sensitive to oat.,bird,oat
+My bird is allergic to oat.,bird,oat
+My dog cannot eat banana.,dog,banana
+My dog is sensitive to banana.,dog,banana
+My dog is allergic to banana.,dog,banana
+My bird cannot eat orange.,bird,orange
+My bird is sensitive to orange.,bird,orange
+My bird is allergic to orange.,bird,orange
+My dog cannot eat rabbit.,dog,rabbit
+My dog is sensitive to rabbit.,dog,rabbit
+My dog is allergic to rabbit.,dog,rabbit
+My dog cannot eat duck.,dog,duck
+My dog is sensitive to duck.,dog,duck
+My dog is allergic to duck.,dog,duck
+My bird cannot eat berry.,bird,berry
+My bird is sensitive to berry.,bird,berry
+My bird is allergic to berry.,bird,berry
+My cat cannot eat tomato.,cat,tomato
+My cat is sensitive to tomato.,cat,tomato
+My cat is allergic to tomato.,cat,tomato
+My bird cannot eat egg.,bird,egg
+My bird is sensitive to egg.,bird,egg
+My bird is allergic to egg.,bird,egg
+My cat cannot eat corn.,cat,corn
+My cat is sensitive to corn.,cat,corn
+My cat is allergic to corn.,cat,corn
+My bird cannot eat barley.,bird,barley
+My bird is sensitive to barley.,bird,barley
+My bird is allergic to barley.,bird,barley
+My dog cannot eat tomato.,dog,tomato
+My dog is sensitive to tomato.,dog,tomato
+My dog is allergic to tomato.,dog,tomato
+My guinea pig cannot eat corn.,guinea pig,corn
+My guinea pig is sensitive to corn.,guinea pig,corn
+My guinea pig is allergic to corn.,guinea pig,corn
+My dog cannot eat fish.,dog,fish
+My dog is sensitive to fish.,dog,fish
+My dog is allergic to fish.,dog,fish
+My dog cannot eat spinach.,dog,spinach
+My dog is sensitive to spinach.,dog,spinach
+My dog is allergic to spinach.,dog,spinach
+My cat cannot eat duck.,cat,duck
+My cat is sensitive to duck.,cat,duck
+My cat is allergic to duck.,cat,duck
+My guinea pig cannot eat carrot.,guinea pig,carrot
+My guinea pig is sensitive to carrot.,guinea pig,carrot
+My guinea pig is allergic to carrot.,guinea pig,carrot
+My dog cannot eat milk.,dog,milk
+My dog is sensitive to milk.,dog,milk
+My dog is allergic to milk.,dog,milk
+My cat cannot eat potato.,cat,potato
+My cat is sensitive to potato.,cat,potato
+My cat is allergic to potato.,cat,potato
+My cat cannot eat spinach.,cat,spinach
+My cat is sensitive to spinach.,cat,spinach
+My cat is allergic to spinach.,cat,spinach
+My cat cannot eat soy.,cat,soy
+My cat is sensitive to soy.,cat,soy
+My cat is allergic to soy.,cat,soy
+My dog cannot eat oat.,dog,oat
+My dog is sensitive to oat.,dog,oat
+My dog is allergic to oat.,dog,oat
+My cat cannot eat carrot.,cat,carrot
+My cat is sensitive to carrot.,cat,carrot
+My cat is allergic to carrot.,cat,carrot
+My bird cannot eat almond.,bird,almond
+My bird is sensitive to almond.,bird,almond
+My bird is allergic to almond.,bird,almond
+My dog cannot eat barley.,dog,barley
+My dog is sensitive to barley.,dog,barley
+My dog is allergic to barley.,dog,barley
+My bird cannot eat milk.,bird,milk
+My bird is sensitive to milk.,bird,milk
+My bird is allergic to milk.,bird,milk
+My guinea pig cannot eat fish.,guinea pig,fish
+My guinea pig is sensitive to fish.,guinea pig,fish
+My guinea pig is allergic to fish.,guinea pig,fish
+My bird cannot eat potato.,bird,potato
+My bird is sensitive to potato.,bird,potato
+My bird is allergic to potato.,bird,potato
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My cat cannot eat pumpkin.,cat,pumpkin
+My cat is sensitive to pumpkin.,cat,pumpkin
+My cat is allergic to pumpkin.,cat,pumpkin
+My guinea pig cannot eat egg.,guinea pig,egg
+My guinea pig is sensitive to egg.,guinea pig,egg
+My guinea pig is allergic to egg.,guinea pig,egg
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My bird cannot eat beef.,bird,beef
+My bird is sensitive to beef.,bird,beef
+My bird is allergic to beef.,bird,beef
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My guinea pig cannot eat spinach.,guinea pig,spinach
+My guinea pig is sensitive to spinach.,guinea pig,spinach
+My guinea pig is allergic to spinach.,guinea pig,spinach
+My cat cannot eat beef.,cat,beef
+My cat is sensitive to beef.,cat,beef
+My cat is allergic to beef.,cat,beef
+My cat cannot eat chicken.,cat,chicken
+My cat is sensitive to chicken.,cat,chicken
+My cat is allergic to chicken.,cat,chicken
+My cat cannot eat pork.,cat,pork
+My cat is sensitive to pork.,cat,pork
+My cat is allergic to pork.,cat,pork
+My bird cannot eat rice.,bird,rice
+My bird is sensitive to rice.,bird,rice
+My bird is allergic to rice.,bird,rice
+My bird cannot eat banana.,bird,banana
+My bird is sensitive to banana.,bird,banana
+My bird is allergic to banana.,bird,banana
+My guinea pig cannot eat apple.,guinea pig,apple
+My guinea pig is sensitive to apple.,guinea pig,apple
+My guinea pig is allergic to apple.,guinea pig,apple
+My bird cannot eat apple.,bird,apple
+My bird is sensitive to apple.,bird,apple
+My bird is allergic to apple.,bird,apple
+My bird cannot eat pea.,bird,pea
+My bird is sensitive to pea.,bird,pea
+My bird is allergic to pea.,bird,pea
+My dog cannot eat beef.,dog,beef
+My dog is sensitive to beef.,dog,beef
+My dog is allergic to beef.,dog,beef
+My dog cannot eat potato.,dog,potato
+My dog is sensitive to potato.,dog,potato
+My dog is allergic to potato.,dog,potato
+My guinea pig cannot eat apricots.,guinea pig,apricots
+My guinea pig is sensitive to apricots.,guinea pig,apricots
+My guinea pig is allergic to apricots.,guinea pig,apricots
+My cat cannot eat fish.,cat,fish
+My cat is sensitive to fish.,cat,fish
+My cat is allergic to fish.,cat,fish
+My cat cannot eat rice.,cat,rice
+My cat is sensitive to rice.,cat,rice
+My cat is allergic to rice.,cat,rice
+My bird cannot eat carrot.,bird,carrot
+My bird is sensitive to carrot.,bird,carrot
+My bird is allergic to carrot.,bird,carrot
+My dog cannot eat corn.,dog,corn
+My dog is sensitive to corn.,dog,corn
+My dog is allergic to corn.,dog,corn
+My bird cannot eat wheat.,bird,wheat
+My bird is sensitive to wheat.,bird,wheat
+My bird is allergic to wheat.,bird,wheat
+My dog cannot eat rice.,dog,rice
+My dog is sensitive to rice.,dog,rice
+My dog is allergic to rice.,dog,rice
+My dog cannot eat pea.,dog,pea
+My dog is sensitive to pea.,dog,pea
+My dog is allergic to pea.,dog,pea
+My bird cannot eat soy.,bird,soy
+My bird is sensitive to soy.,bird,soy
+My bird is allergic to soy.,bird,soy
+My guinea pig cannot eat blueberry.,guinea pig,blueberry
+My guinea pig is sensitive to blueberry.,guinea pig,blueberry
+My guinea pig is allergic to blueberry.,guinea pig,blueberry
+My guinea pig cannot eat pumpkin.,guinea pig,pumpkin
+My guinea pig is sensitive to pumpkin.,guinea pig,pumpkin
+My guinea pig is allergic to pumpkin.,guinea pig,pumpkin
+My dog cannot eat chicken.,dog,chicken
+My dog is sensitive to chicken.,dog,chicken
+My dog is allergic to chicken.,dog,chicken
+My bird cannot eat cranberry.,bird,cranberry
+My bird is sensitive to cranberry.,bird,cranberry
+My bird is allergic to cranberry.,bird,cranberry
+My bird cannot eat fish.,bird,fish
+My bird is sensitive to fish.,bird,fish
+My bird is allergic to fish.,bird,fish
+My dog cannot eat lamb.,dog,lamb
+My dog is sensitive to lamb.,dog,lamb
+My dog is allergic to lamb.,dog,lamb
+My guinea pig cannot eat soy.,guinea pig,soy
+My guinea pig is sensitive to soy.,guinea pig,soy
+My guinea pig is allergic to soy.,guinea pig,soy
+My dog cannot eat soy.,dog,soy
+My dog is sensitive to soy.,dog,soy
+My dog is allergic to soy.,dog,soy
+My guinea pig cannot eat barley.,guinea pig,barley
+My guinea pig is sensitive to barley.,guinea pig,barley
+My guinea pig is allergic to barley.,guinea pig,barley
+My dog cannot eat pork.,dog,pork
+My dog is sensitive to pork.,dog,pork
+My dog is allergic to pork.,dog,pork
+My guinea pig cannot eat pea.,guinea pig,pea
+My guinea pig is sensitive to pea.,guinea pig,pea
+My guinea pig is allergic to pea.,guinea pig,pea
+My cat cannot eat wheat.,cat,wheat
+My cat is sensitive to wheat.,cat,wheat
+My cat is allergic to wheat.,cat,wheat
+My guinea pig cannot eat wheat.,guinea pig,wheat
+My guinea pig is sensitive to wheat.,guinea pig,wheat
+My guinea pig is allergic to wheat.,guinea pig,wheat
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My guinea pig cannot eat oat.,guinea pig,oat
+My guinea pig is sensitive to oat.,guinea pig,oat
+My guinea pig is allergic to oat.,guinea pig,oat
+My guinea pig cannot eat potato.,guinea pig,potato
+My guinea pig is sensitive to potato.,guinea pig,potato
+My guinea pig is allergic to potato.,guinea pig,potato
+My cat cannot eat pea.,cat,pea
+My cat is sensitive to pea.,cat,pea
+My cat is allergic to pea.,cat,pea
+My dog cannot eat pumpkin.,dog,pumpkin
+My dog is sensitive to pumpkin.,dog,pumpkin
+My dog is allergic to pumpkin.,dog,pumpkin
+My dog cannot eat wheat.,dog,wheat
+My dog is sensitive to wheat.,dog,wheat
+My dog is allergic to wheat.,dog,wheat
+My dog cannot eat egg.,dog,egg
+My dog is sensitive to egg.,dog,egg
+My dog is allergic to egg.,dog,egg
+My dog cannot eat cranberry.,dog,cranberry
+My dog is sensitive to cranberry.,dog,cranberry
+My dog is allergic to cranberry.,dog,cranberry
+My bird cannot eat fruit.,bird,fruit
+My bird is sensitive to fruit.,bird,fruit
+My bird is allergic to fruit.,bird,fruit
+My cat cannot eat cranberry.,cat,cranberry
+My cat is sensitive to cranberry.,cat,cranberry
+My cat is allergic to cranberry.,cat,cranberry
+My guinea pig cannot eat milk.,guinea pig,milk
+My guinea pig is sensitive to milk.,guinea pig,milk
+My guinea pig is allergic to milk.,guinea pig,milk
+My bird cannot eat spinach.,bird,spinach
+My bird is sensitive to spinach.,bird,spinach
+My bird is allergic to spinach.,bird,spinach
+My guinea pig cannot eat rice.,guinea pig,rice
+My guinea pig is sensitive to rice.,guinea pig,rice
+My guinea pig is allergic to rice.,guinea pig,rice
+My cat cannot eat egg.,cat,egg
+My cat is sensitive to egg.,cat,egg
+My cat is allergic to egg.,cat,egg
+My cat cannot eat cheese.,cat,cheese
+My cat is sensitive to cheese.,cat,cheese
+My cat is allergic to cheese.,cat,cheese
+My bird cannot eat pumpkin.,bird,pumpkin
+My bird is sensitive to pumpkin.,bird,pumpkin
+My bird is allergic to pumpkin.,bird,pumpkin
+My bird cannot eat lettuce.,bird,lettuce
+My bird is sensitive to lettuce.,bird,lettuce
+My bird is allergic to lettuce.,bird,lettuce
+My cat cannot eat milk.,cat,milk
+My cat is sensitive to milk.,cat,milk
+My cat is allergic to milk.,cat,milk
+My dog cannot eat turkey.,dog,turkey
+My dog is sensitive to turkey.,dog,turkey
+My dog is allergic to turkey.,dog,turkey
+My guinea pig cannot eat strawberry.,guinea pig,strawberry
+My guinea pig is sensitive to strawberry.,guinea pig,strawberry
+My guinea pig is allergic to strawberry.,guinea pig,strawberry
+My cat cannot eat oat.,cat,oat
+My cat is sensitive to oat.,cat,oat
+My cat is allergic to oat.,cat,oat
+My bird cannot eat corn.,bird,corn
+My bird is sensitive to corn.,bird,corn
+My bird is allergic to corn.,bird,corn
+My guinea pig cannot eat orange.,guinea pig,orange
+My guinea pig is sensitive to orange.,guinea pig,orange
+My guinea pig is allergic to orange.,guinea pig,orange
+My cat cannot eat turkey.,cat,turkey
+My cat is sensitive to turkey.,cat,turkey
+My cat is allergic to turkey.,cat,turkey
+My dog cannot eat carrot.,dog,carrot
+My dog is sensitive to carrot.,dog,carrot
+My dog is allergic to carrot.,dog,carrot
+My guinea pig cannot eat banana.,guinea pig,banana
+My guinea pig is sensitive to banana.,guinea pig,banana
+My guinea pig is allergic to banana.,guinea pig,banana
+My bird cannot eat oat.,bird,oat
+My bird is sensitive to oat.,bird,oat
+My bird is allergic to oat.,bird,oat
+My dog cannot eat banana.,dog,banana
+My dog is sensitive to banana.,dog,banana
+My dog is allergic to banana.,dog,banana
+My bird cannot eat orange.,bird,orange
+My bird is sensitive to orange.,bird,orange
+My bird is allergic to orange.,bird,orange
+My dog cannot eat rabbit.,dog,rabbit
+My dog is sensitive to rabbit.,dog,rabbit
+My dog is allergic to rabbit.,dog,rabbit
+My dog cannot eat duck.,dog,duck
+My dog is sensitive to duck.,dog,duck
+My dog is allergic to duck.,dog,duck
+My bird cannot eat berry.,bird,berry
+My bird is sensitive to berry.,bird,berry
+My bird is allergic to berry.,bird,berry
+My cat cannot eat tomato.,cat,tomato
+My cat is sensitive to tomato.,cat,tomato
+My cat is allergic to tomato.,cat,tomato
+My bird cannot eat egg.,bird,egg
+My bird is sensitive to egg.,bird,egg
+My bird is allergic to egg.,bird,egg
+My cat cannot eat corn.,cat,corn
+My cat is sensitive to corn.,cat,corn
+My cat is allergic to corn.,cat,corn
+My bird cannot eat barley.,bird,barley
+My bird is sensitive to barley.,bird,barley
+My bird is allergic to barley.,bird,barley
+My dog cannot eat tomato.,dog,tomato
+My dog is sensitive to tomato.,dog,tomato
+My dog is allergic to tomato.,dog,tomato
+My guinea pig cannot eat corn.,guinea pig,corn
+My guinea pig is sensitive to corn.,guinea pig,corn
+My guinea pig is allergic to corn.,guinea pig,corn
+My dog cannot eat fish.,dog,fish
+My dog is sensitive to fish.,dog,fish
+My dog is allergic to fish.,dog,fish
+My dog cannot eat spinach.,dog,spinach
+My dog is sensitive to spinach.,dog,spinach
+My dog is allergic to spinach.,dog,spinach
+My cat cannot eat duck.,cat,duck
+My cat is sensitive to duck.,cat,duck
+My cat is allergic to duck.,cat,duck
+My guinea pig cannot eat carrot.,guinea pig,carrot
+My guinea pig is sensitive to carrot.,guinea pig,carrot
+My guinea pig is allergic to carrot.,guinea pig,carrot
+My dog cannot eat milk.,dog,milk
+My dog is sensitive to milk.,dog,milk
+My dog is allergic to milk.,dog,milk
+My cat cannot eat potato.,cat,potato
+My cat is sensitive to potato.,cat,potato
+My cat is allergic to potato.,cat,potato
+My cat cannot eat spinach.,cat,spinach
+My cat is sensitive to spinach.,cat,spinach
+My cat is allergic to spinach.,cat,spinach
+My cat cannot eat soy.,cat,soy
+My cat is sensitive to soy.,cat,soy
+My cat is allergic to soy.,cat,soy
+My dog cannot eat oat.,dog,oat
+My dog is sensitive to oat.,dog,oat
+My dog is allergic to oat.,dog,oat
+My cat cannot eat carrot.,cat,carrot
+My cat is sensitive to carrot.,cat,carrot
+My cat is allergic to carrot.,cat,carrot
+My bird cannot eat almond.,bird,almond
+My bird is sensitive to almond.,bird,almond
+My bird is allergic to almond.,bird,almond
+My dog cannot eat barley.,dog,barley
+My dog is sensitive to barley.,dog,barley
+My dog is allergic to barley.,dog,barley
+My bird cannot eat milk.,bird,milk
+My bird is sensitive to milk.,bird,milk
+My bird is allergic to milk.,bird,milk
+My guinea pig cannot eat fish.,guinea pig,fish
+My guinea pig is sensitive to fish.,guinea pig,fish
+My guinea pig is allergic to fish.,guinea pig,fish
+My bird cannot eat potato.,bird,potato
+My bird is sensitive to potato.,bird,potato
+My bird is allergic to potato.,bird,potato
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My cat cannot eat pumpkin.,cat,pumpkin
+My cat is sensitive to pumpkin.,cat,pumpkin
+My cat is allergic to pumpkin.,cat,pumpkin
+My guinea pig cannot eat egg.,guinea pig,egg
+My guinea pig is sensitive to egg.,guinea pig,egg
+My guinea pig is allergic to egg.,guinea pig,egg
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My bird cannot eat beef.,bird,beef
+My bird is sensitive to beef.,bird,beef
+My bird is allergic to beef.,bird,beef
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My guinea pig cannot eat spinach.,guinea pig,spinach
+My guinea pig is sensitive to spinach.,guinea pig,spinach
+My guinea pig is allergic to spinach.,guinea pig,spinach
+My cat cannot eat beef.,cat,beef
+My cat is sensitive to beef.,cat,beef
+My cat is allergic to beef.,cat,beef
+My cat cannot eat chicken.,cat,chicken
+My cat is sensitive to chicken.,cat,chicken
+My cat is allergic to chicken.,cat,chicken
+My cat cannot eat pork.,cat,pork
+My cat is sensitive to pork.,cat,pork
+My cat is allergic to pork.,cat,pork
+My bird cannot eat rice.,bird,rice
+My bird is sensitive to rice.,bird,rice
+My bird is allergic to rice.,bird,rice
+My bird cannot eat banana.,bird,banana
+My bird is sensitive to banana.,bird,banana
+My bird is allergic to banana.,bird,banana
+My guinea pig cannot eat apple.,guinea pig,apple
+My guinea pig is sensitive to apple.,guinea pig,apple
+My guinea pig is allergic to apple.,guinea pig,apple
+My bird cannot eat apple.,bird,apple
+My bird is sensitive to apple.,bird,apple
+My bird is allergic to apple.,bird,apple
+My bird cannot eat pea.,bird,pea
+My bird is sensitive to pea.,bird,pea
+My bird is allergic to pea.,bird,pea
+My dog cannot eat beef.,dog,beef
+My dog is sensitive to beef.,dog,beef
+My dog is allergic to beef.,dog,beef
+My dog cannot eat potato.,dog,potato
+My dog is sensitive to potato.,dog,potato
+My dog is allergic to potato.,dog,potato
+My guinea pig cannot eat apricots.,guinea pig,apricots
+My guinea pig is sensitive to apricots.,guinea pig,apricots
+My guinea pig is allergic to apricots.,guinea pig,apricots
+My cat cannot eat fish.,cat,fish
+My cat is sensitive to fish.,cat,fish
+My cat is allergic to fish.,cat,fish
+My cat cannot eat rice.,cat,rice
+My cat is sensitive to rice.,cat,rice
+My cat is allergic to rice.,cat,rice
+My bird cannot eat carrot.,bird,carrot
+My bird is sensitive to carrot.,bird,carrot
+My bird is allergic to carrot.,bird,carrot
+My dog cannot eat corn.,dog,corn
+My dog is sensitive to corn.,dog,corn
+My dog is allergic to corn.,dog,corn
+My bird cannot eat wheat.,bird,wheat
+My bird is sensitive to wheat.,bird,wheat
+My bird is allergic to wheat.,bird,wheat
+My dog cannot eat rice.,dog,rice
+My dog is sensitive to rice.,dog,rice
+My dog is allergic to rice.,dog,rice
+My dog cannot eat pea.,dog,pea
+My dog is sensitive to pea.,dog,pea
+My dog is allergic to pea.,dog,pea
+My bird cannot eat soy.,bird,soy
+My bird is sensitive to soy.,bird,soy
+My bird is allergic to soy.,bird,soy
+My guinea pig cannot eat blueberry.,guinea pig,blueberry
+My guinea pig is sensitive to blueberry.,guinea pig,blueberry
+My guinea pig is allergic to blueberry.,guinea pig,blueberry
+My guinea pig cannot eat pumpkin.,guinea pig,pumpkin
+My guinea pig is sensitive to pumpkin.,guinea pig,pumpkin
+My guinea pig is allergic to pumpkin.,guinea pig,pumpkin
+My dog cannot eat chicken.,dog,chicken
+My dog is sensitive to chicken.,dog,chicken
+My dog is allergic to chicken.,dog,chicken
+My bird cannot eat cranberry.,bird,cranberry
+My bird is sensitive to cranberry.,bird,cranberry
+My bird is allergic to cranberry.,bird,cranberry
+My bird cannot eat fish.,bird,fish
+My bird is sensitive to fish.,bird,fish
+My bird is allergic to fish.,bird,fish
+My dog cannot eat lamb.,dog,lamb
+My dog is sensitive to lamb.,dog,lamb
+My dog is allergic to lamb.,dog,lamb
+My guinea pig cannot eat soy.,guinea pig,soy
+My guinea pig is sensitive to soy.,guinea pig,soy
+My guinea pig is allergic to soy.,guinea pig,soy
+My dog cannot eat soy.,dog,soy
+My dog is sensitive to soy.,dog,soy
+My dog is allergic to soy.,dog,soy
+My guinea pig cannot eat barley.,guinea pig,barley
+My guinea pig is sensitive to barley.,guinea pig,barley
+My guinea pig is allergic to barley.,guinea pig,barley
+My dog cannot eat pork.,dog,pork
+My dog is sensitive to pork.,dog,pork
+My dog is allergic to pork.,dog,pork
+My guinea pig cannot eat pea.,guinea pig,pea
+My guinea pig is sensitive to pea.,guinea pig,pea
+My guinea pig is allergic to pea.,guinea pig,pea
+My cat cannot eat wheat.,cat,wheat
+My cat is sensitive to wheat.,cat,wheat
+My cat is allergic to wheat.,cat,wheat
+My guinea pig cannot eat wheat.,guinea pig,wheat
+My guinea pig is sensitive to wheat.,guinea pig,wheat
+My guinea pig is allergic to wheat.,guinea pig,wheat
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My guinea pig cannot eat oat.,guinea pig,oat
+My guinea pig is sensitive to oat.,guinea pig,oat
+My guinea pig is allergic to oat.,guinea pig,oat
+My guinea pig cannot eat potato.,guinea pig,potato
+My guinea pig is sensitive to potato.,guinea pig,potato
+My guinea pig is allergic to potato.,guinea pig,potato
+My cat cannot eat pea.,cat,pea
+My cat is sensitive to pea.,cat,pea
+My cat is allergic to pea.,cat,pea
+My dog cannot eat pumpkin.,dog,pumpkin
+My dog is sensitive to pumpkin.,dog,pumpkin
+My dog is allergic to pumpkin.,dog,pumpkin
+My dog cannot eat wheat.,dog,wheat
+My dog is sensitive to wheat.,dog,wheat
+My dog is allergic to wheat.,dog,wheat
+My dog cannot eat egg.,dog,egg
+My dog is sensitive to egg.,dog,egg
+My dog is allergic to egg.,dog,egg
+My dog cannot eat cranberry.,dog,cranberry
+My dog is sensitive to cranberry.,dog,cranberry
+My dog is allergic to cranberry.,dog,cranberry
+My bird cannot eat fruit.,bird,fruit
+My bird is sensitive to fruit.,bird,fruit
+My bird is allergic to fruit.,bird,fruit
+My cat cannot eat cranberry.,cat,cranberry
+My cat is sensitive to cranberry.,cat,cranberry
+My cat is allergic to cranberry.,cat,cranberry
+My guinea pig cannot eat milk.,guinea pig,milk
+My guinea pig is sensitive to milk.,guinea pig,milk
+My guinea pig is allergic to milk.,guinea pig,milk
+My bird cannot eat spinach.,bird,spinach
+My bird is sensitive to spinach.,bird,spinach
+My bird is allergic to spinach.,bird,spinach
+My guinea pig cannot eat rice.,guinea pig,rice
+My guinea pig is sensitive to rice.,guinea pig,rice
+My guinea pig is allergic to rice.,guinea pig,rice
+My cat cannot eat egg.,cat,egg
+My cat is sensitive to egg.,cat,egg
+My cat is allergic to egg.,cat,egg
+My cat cannot eat cheese.,cat,cheese
+My cat is sensitive to cheese.,cat,cheese
+My cat is allergic to cheese.,cat,cheese
+My bird cannot eat pumpkin.,bird,pumpkin
+My bird is sensitive to pumpkin.,bird,pumpkin
+My bird is allergic to pumpkin.,bird,pumpkin
+My bird cannot eat lettuce.,bird,lettuce
+My bird is sensitive to lettuce.,bird,lettuce
+My bird is allergic to lettuce.,bird,lettuce
+My cat cannot eat milk.,cat,milk
+My cat is sensitive to milk.,cat,milk
+My cat is allergic to milk.,cat,milk
+My dog cannot eat turkey.,dog,turkey
+My dog is sensitive to turkey.,dog,turkey
+My dog is allergic to turkey.,dog,turkey
+My guinea pig cannot eat strawberry.,guinea pig,strawberry
+My guinea pig is sensitive to strawberry.,guinea pig,strawberry
+My guinea pig is allergic to strawberry.,guinea pig,strawberry
+My cat cannot eat oat.,cat,oat
+My cat is sensitive to oat.,cat,oat
+My cat is allergic to oat.,cat,oat
+My bird cannot eat corn.,bird,corn
+My bird is sensitive to corn.,bird,corn
+My bird is allergic to corn.,bird,corn
+My guinea pig cannot eat orange.,guinea pig,orange
+My guinea pig is sensitive to orange.,guinea pig,orange
+My guinea pig is allergic to orange.,guinea pig,orange
+My cat cannot eat turkey.,cat,turkey
+My cat is sensitive to turkey.,cat,turkey
+My cat is allergic to turkey.,cat,turkey
+My dog cannot eat carrot.,dog,carrot
+My dog is sensitive to carrot.,dog,carrot
+My dog is allergic to carrot.,dog,carrot
+My guinea pig cannot eat banana.,guinea pig,banana
+My guinea pig is sensitive to banana.,guinea pig,banana
+My guinea pig is allergic to banana.,guinea pig,banana
+My bird cannot eat oat.,bird,oat
+My bird is sensitive to oat.,bird,oat
+My bird is allergic to oat.,bird,oat
+My dog cannot eat banana.,dog,banana
+My dog is sensitive to banana.,dog,banana
+My dog is allergic to banana.,dog,banana
+My bird cannot eat orange.,bird,orange
+My bird is sensitive to orange.,bird,orange
+My bird is allergic to orange.,bird,orange
+My dog cannot eat rabbit.,dog,rabbit
+My dog is sensitive to rabbit.,dog,rabbit
+My dog is allergic to rabbit.,dog,rabbit
+My dog cannot eat duck.,dog,duck
+My dog is sensitive to duck.,dog,duck
+My dog is allergic to duck.,dog,duck
+My bird cannot eat berry.,bird,berry
+My bird is sensitive to berry.,bird,berry
+My bird is allergic to berry.,bird,berry
+My cat cannot eat tomato.,cat,tomato
+My cat is sensitive to tomato.,cat,tomato
+My cat is allergic to tomato.,cat,tomato
+My bird cannot eat egg.,bird,egg
+My bird is sensitive to egg.,bird,egg
+My bird is allergic to egg.,bird,egg
+My cat cannot eat corn.,cat,corn
+My cat is sensitive to corn.,cat,corn
+My cat is allergic to corn.,cat,corn
+My bird cannot eat barley.,bird,barley
+My bird is sensitive to barley.,bird,barley
+My bird is allergic to barley.,bird,barley
+My dog cannot eat tomato.,dog,tomato
+My dog is sensitive to tomato.,dog,tomato
+My dog is allergic to tomato.,dog,tomato
+My guinea pig cannot eat corn.,guinea pig,corn
+My guinea pig is sensitive to corn.,guinea pig,corn
+My guinea pig is allergic to corn.,guinea pig,corn
+My dog cannot eat fish.,dog,fish
+My dog is sensitive to fish.,dog,fish
+My dog is allergic to fish.,dog,fish
+My dog cannot eat spinach.,dog,spinach
+My dog is sensitive to spinach.,dog,spinach
+My dog is allergic to spinach.,dog,spinach
+My cat cannot eat duck.,cat,duck
+My cat is sensitive to duck.,cat,duck
+My cat is allergic to duck.,cat,duck
+My guinea pig cannot eat carrot.,guinea pig,carrot
+My guinea pig is sensitive to carrot.,guinea pig,carrot
+My guinea pig is allergic to carrot.,guinea pig,carrot
+My dog cannot eat milk.,dog,milk
+My dog is sensitive to milk.,dog,milk
+My dog is allergic to milk.,dog,milk
+My cat cannot eat potato.,cat,potato
+My cat is sensitive to potato.,cat,potato
+My cat is allergic to potato.,cat,potato
+My cat cannot eat spinach.,cat,spinach
+My cat is sensitive to spinach.,cat,spinach
+My cat is allergic to spinach.,cat,spinach
+My cat cannot eat soy.,cat,soy
+My cat is sensitive to soy.,cat,soy
+My cat is allergic to soy.,cat,soy
+My dog cannot eat oat.,dog,oat
+My dog is sensitive to oat.,dog,oat
+My dog is allergic to oat.,dog,oat
+My cat cannot eat carrot.,cat,carrot
+My cat is sensitive to carrot.,cat,carrot
+My cat is allergic to carrot.,cat,carrot
+My bird cannot eat almond.,bird,almond
+My bird is sensitive to almond.,bird,almond
+My bird is allergic to almond.,bird,almond
+My dog cannot eat barley.,dog,barley
+My dog is sensitive to barley.,dog,barley
+My dog is allergic to barley.,dog,barley
+My bird cannot eat milk.,bird,milk
+My bird is sensitive to milk.,bird,milk
+My bird is allergic to milk.,bird,milk
+My guinea pig cannot eat fish.,guinea pig,fish
+My guinea pig is sensitive to fish.,guinea pig,fish
+My guinea pig is allergic to fish.,guinea pig,fish
+My bird cannot eat potato.,bird,potato
+My bird is sensitive to potato.,bird,potato
+My bird is allergic to potato.,bird,potato
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli
+My cat cannot eat pumpkin.,cat,pumpkin
+My cat is sensitive to pumpkin.,cat,pumpkin
+My cat is allergic to pumpkin.,cat,pumpkin
+My guinea pig cannot eat egg.,guinea pig,egg
+My guinea pig is sensitive to egg.,guinea pig,egg
+My guinea pig is allergic to egg.,guinea pig,egg
+My bird cannot eat strawberry.,bird,strawberry
+My bird is sensitive to strawberry.,bird,strawberry
+My bird is allergic to strawberry.,bird,strawberry
+My bird cannot eat beef.,bird,beef
+My bird is sensitive to beef.,bird,beef
+My bird is allergic to beef.,bird,beef
+My bird cannot eat broccoli.,bird,broccoli
+My bird is sensitive to broccoli.,bird,broccoli
+My bird is allergic to broccoli.,bird,broccoli

@@ -1,0 +1,137 @@
+2024-12-01 16:19:30,886 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:19:30,887 - __main__ - ERROR: *** Type of file path is invalid ***
+2024-12-01 16:21:26,421 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:21:26,421 - __main__ - ERROR: *** Type of file path is invalid ***
+2024-12-01 16:22:18,329 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:22:18,330 - __main__ - ERROR: *** Type of file path is invalid ***
+2024-12-01 16:23:04,936 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:23:04,936 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:23:04,936 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:23:04,936 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:23:04,936 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:23:39,809 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:23:39,809 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:23:39,812 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:24:02,227 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:24:02,228 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:24:02,228 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:24:02,228 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:24:02,228 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:24:11,241 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:24:11,241 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:24:11,245 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:24:55,618 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:24:55,618 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:24:55,618 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:24:55,618 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:24:55,618 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:25:00,289 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:25:00,290 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:25:00,293 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:25:59,204 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:25:59,204 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:25:59,204 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:25:59,204 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:25:59,204 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:26:00,058 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:26:00,059 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:26:00,061 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:26:24,397 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:26:24,397 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:26:24,397 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:26:24,397 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:26:24,397 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:26:28,667 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:26:28,667 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:26:28,670 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:26:41,933 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:26:41,933 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:26:41,933 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:26:41,933 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:26:41,933 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:26:50,251 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:26:50,252 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:26:50,261 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:26:57,628 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:28:45,760 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:28:45,760 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:28:45,760 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:28:45,760 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:28:45,760 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:28:50,023 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:28:50,023 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:28:50,027 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:28:52,378 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:29:19,231 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:29:19,232 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:29:19,232 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:29:19,232 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:29:19,232 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:29:20,934 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:29:20,935 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:29:20,938 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:29:33,647 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:30:33,509 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:30:33,510 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:30:33,510 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:30:33,510 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:30:33,510 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:30:34,620 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:30:34,620 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:30:34,623 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:30:36,943 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:31:36,189 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:31:36,190 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:31:36,190 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:31:36,190 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:31:36,190 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:31:40,683 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:31:40,683 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:31:40,687 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:31:53,388 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:31:53,391 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 16:31:53,391 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 16:33:47,858 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:33:47,859 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:33:47,859 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:33:47,859 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:33:47,859 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:33:57,577 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:33:57,577 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:33:57,580 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:34:00,456 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:34:00,458 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 16:34:00,458 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 16:34:27,355 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:34:27,355 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:34:27,355 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:34:27,355 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:34:27,355 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:34:32,617 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:34:32,618 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:34:32,620 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:34:48,201 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:34:48,204 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 16:34:48,204 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 16:35:13,176 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:35:13,176 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:35:13,176 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:35:13,176 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:35:13,176 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:35:17,384 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:35:17,385 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:35:17,387 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:35:30,553 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:35:30,555 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 16:35:30,555 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 16:36:23,658 - __main__ - INFO: ==== Verification of Parameters ====
+2024-12-01 16:36:23,658 - __main__ - INFO: ---> Passed verification check
+2024-12-01 16:36:23,658 - __main__ - INFO: ==== Begin Extraction ====
+2024-12-01 16:36:23,658 - __main__ - INFO: ---> CLI mode was set
+2024-12-01 16:36:23,658 - __main__ - INFO: ---> Listening to user input
+2024-12-01 16:36:38,743 - __main__ - INFO: ---> Finished extraction
+2024-12-01 16:36:38,743 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 16:36:38,746 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 16:36:45,979 - __main__ - INFO: ---> Successful import of model
+2024-12-01 16:36:45,981 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 16:36:45,982 - __main__ - INFO: ==== Fitting the Text to Model ====

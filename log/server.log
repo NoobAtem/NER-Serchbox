@@ -1,0 +1,74 @@
+2024-12-01 17:30:11,321 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:30:11,323 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:30:11,323 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 17:30:26,877 - __main__ - INFO: ---> Successful import of model
+2024-12-01 17:30:26,880 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 17:30:26,880 - __main__ - INFO: ==== Running Server ====
+2024-12-01 17:30:56,581 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:30:56,590 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:31:17,234 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:31:17,236 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:33:35,195 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:33:35,198 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:33:35,198 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 17:33:38,088 - __main__ - INFO: ---> Successful import of model
+2024-12-01 17:33:38,090 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 17:33:38,091 - __main__ - INFO: ==== Running Server ====
+2024-12-01 17:33:58,591 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:33:58,598 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:34:18,662 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:34:18,664 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:35:17,021 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:35:17,023 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:35:17,023 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 17:35:30,220 - __main__ - INFO: ---> Successful import of model
+2024-12-01 17:35:30,223 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 17:35:30,223 - __main__ - INFO: ==== Running Server ====
+2024-12-01 17:35:35,255 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:35:35,262 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:35:35,262 - __main__ - INFO: ---> Packet send to client
+2024-12-01 17:37:07,360 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:37:07,363 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:37:07,363 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 17:37:14,592 - __main__ - INFO: ---> Successful import of model
+2024-12-01 17:37:14,595 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 17:37:14,595 - __main__ - INFO: ==== Running Server ====
+2024-12-01 17:37:24,750 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:37:24,760 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:37:24,760 - __main__ - INFO: ---> Packet send to client
+2024-12-01 17:43:09,666 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:43:09,668 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:43:09,668 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 17:43:22,837 - __main__ - INFO: ---> Successful import of model
+2024-12-01 17:43:22,841 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 17:43:22,841 - __main__ - INFO: ==== Running Server ====
+2024-12-01 17:43:37,339 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:43:37,348 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:43:37,348 - __main__ - INFO: ---> Packet send to client
+2024-12-01 17:47:02,914 - __main__ - INFO: ==== Booting Server ====
+2024-12-01 17:47:02,916 - __main__ - INFO: ---> Succesful loading of config
+2024-12-01 17:47:02,916 - __main__ - INFO: ==== Loading Model ====
+2024-12-01 17:47:16,110 - __main__ - INFO: ---> Successful import of model
+2024-12-01 17:47:16,113 - __main__ - INFO: ---> Finalized initialization of model
+2024-12-01 17:47:16,113 - __main__ - INFO: ==== Running Server ====
+2024-12-01 17:47:38,844 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:47:38,850 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:47:38,850 - __main__ - INFO: ---> Packet sent to client
+2024-12-01 17:47:42,539 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:47:42,550 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:47:42,550 - __main__ - INFO: ---> Packet sent to client
+2024-12-01 17:47:45,395 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:47:45,406 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:47:45,406 - __main__ - INFO: ---> Packet sent to client
+2024-12-01 17:47:57,124 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:47:57,139 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:47:57,139 - __main__ - INFO: ---> Packet sent to client
+2024-12-01 17:48:12,452 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:48:12,465 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:48:12,466 - __main__ - INFO: ---> Packet sent to client
+2024-12-01 17:48:32,059 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:48:32,072 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:48:32,073 - __main__ - INFO: ---> Packet sent to client
+2024-12-01 17:48:55,779 - __main__ - INFO: ==== Fitting the Text to Model ====
+2024-12-01 17:48:55,792 - __main__ - INFO: ---> Sending a response
+2024-12-01 17:48:55,793 - __main__ - INFO: ---> Packet sent to client
