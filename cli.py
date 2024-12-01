@@ -81,7 +81,7 @@ def read_input() -> list:
 def saved_input(results: list) -> None:
     LOG.info("---> Saved result to result.yaml")
     with open("result.yaml", "w") as f:
-        yaml.dump({"date": datetime.now(). "result": results}, f, default_flow_style=False)
+        yaml.dump({"date": datetime.now(), "result": results}, f, default_flow_style=False)
 
 if __name__ == '__main__':
     parser: object = argparse.ArgumentParser(description="Input where text would be retrieve.")
