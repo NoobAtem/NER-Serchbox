@@ -16,3 +16,5 @@ Simply install this following modules:
 - pip3 install -u spacy
 
 Then download the corpus for spacy: python -m spacy download en_core_web_sm
+
+**...Or just run the pip3 install -r requirements.txt**
